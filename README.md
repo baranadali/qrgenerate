@@ -1,4 +1,4 @@
-<img src="./src/assets/images/thumbnail.jpg" />
+<img src="./src/assets/images/thumb.png" />
 
 ## Overview
 
