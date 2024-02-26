@@ -11,6 +11,7 @@ A project where we turn links into QR codes. It was created using React and Tail
 - [React](https://reactjs.org)
 - [Tailwind CSS](https://tailwindcss.com)
 - [QR Code Package](https://www.npmjs.com/package/react-qr-code)
+- [Screenshot Package](https://www.npmjs.com/package/use-react-screenshot)
 
 ## Running Locally
 
