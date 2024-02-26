@@ -19,4 +19,8 @@ $ git clone https://github.com/baranadali/qrgenerate
 $ cd qrgenerate
 $ npm install
 $ npm run dev
+<<<<<<< HEAD
 ```
+=======
+```
+>>>>>>> 77e192d (QR code download feature has been activated.)

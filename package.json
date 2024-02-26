@@ -10,10 +10,12 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "html2canvas": "^1.4.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-icons": "^5.0.1",
-    "react-qr-code": "^2.0.12"
+    "react-qr-code": "^2.0.12",
+    "use-react-screenshot": "^4.0.0"
   },
   "devDependencies": {
     "@types/react": "^18.2.43",
